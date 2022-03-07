@@ -4,13 +4,10 @@ app:
   featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: <script>document.write('&copy;' + (new Date()).getFullYear());</script><noscript>&copy;2022</noscript> All rights reserved
   links:
-    - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
-      target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
+    - title: Twitter
+      url: https://twitter.com/usecongo
       target: _blank
     - title: Privacy
       url: /privacy

@@ -4,25 +4,24 @@
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
 title: Mobile App Landing Page Template
-email: contact@sandoche.com
-description: Free to use static landing page template to showcase your mobile app
+email: n/a
+description: Branded Video
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mobileapplandingpage.learn.uno" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bumpr.video" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
-twitter_username: sandochee
-github_username:  sandoche
-author: Sandoche Adittane
+twitter_username: marckrejci
+github_username:  marckrejci  
+author: Marc Krejci
 logo: assets/images/large-logo.png
 twitter:
-  username: sandochee
+  username: marckrejci
 social:
-  name: Sandoche Adittane
+  name: Marck Krejci
   links:
-    - https://twitter.com/sandochee
-    - https://www.facebook.com/sandoche
-    - https://www.linkedin.com/in/sandoche
-    - https://plus.google.com/+SandocheADITTANE
-    - https://github.com/sandoche
+    - https://twitter.com/marckrejci
+    - https://www.facebook.com/marckrejci
+    - https://www.linkedin.com/in/marckrejci
+    - https://github.com/marckrejci
 
 languages: ["en"]
 ampdir: amp
