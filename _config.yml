@@ -9,19 +9,16 @@ description: Branded Video
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bumpr.video" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
-twitter_username: marckrejci
-github_username:  marckrejci  
-author: Marc Krejci
+twitter_username: 
+github_username:    
+author: Bumpr
 logo: assets/images/large-logo.png
 twitter:
-  username: marckrejci
+  username: 
 social:
-  name: Marck Krejci
+  name: 
   links:
-    - https://twitter.com/marckrejci
-    - https://www.facebook.com/marckrejci
-    - https://www.linkedin.com/in/marckrejci
-    - https://github.com/marckrejci
+    - 
 
 languages: ["en"]
 ampdir: amp
