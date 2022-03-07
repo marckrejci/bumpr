@@ -1,13 +1,13 @@
 app:
   screenshots: Screenshots
   description: Description
-  featured: Featured in
+  # featured: Featured in
 
 footer:
   copyright: <script>document.write('&copy;' + (new Date()).getFullYear());</script><noscript>&copy;2022</noscript> All rights reserved
   links:
-    - title: Twitter
-      url: https://twitter.com/usecongo
-      target: _blank
+#    - title: Twitter
+#      url: https://twitter.com/usecongo
+#      target: _blank
     - title: Privacy
       url: /privacy
