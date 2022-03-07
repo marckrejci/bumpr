@@ -1,17 +1,11 @@
 name: Bumpr
-description: Be a lazy BUM and brand your video with BUMPR
+description: Automate your video branding with Bumpr
 full_description: 'More details coming soon...'
 android: 
-iOS: https://telegra.ph/Replace-this-link-07-23
+iOS: https://bumpr-video.netlify.app/
 web: 
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: 
-companies:
-  - url: 
-    image: 
-  - url: 
-    image: 
