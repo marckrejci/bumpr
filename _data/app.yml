@@ -2,7 +2,7 @@ name: Bumpr
 description: Automate your video branding
 full_description: 'More details coming soon...'
 android: 
-iOS: https://bumpr-video.netlify.app/
+iOS: https://bumpr.video/
 web: 
 screenshots:
   - 1.png

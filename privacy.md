@@ -140,4 +140,5 @@ permalink: /privacy/
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
 <li>By visiting this page on our website: <a href="https://bumpr.video" rel="external nofollow noopener" target="_blank">https://bumpr.video</a></li>
+<li>By emailing us at: <a href="mailto:feedback@bumpr.video" target="_blank">feedback@bumpr.video</a></li>
 </ul>
